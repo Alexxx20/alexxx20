@@ -30,7 +30,14 @@
   </a>
 </span>
 
-# Git Stats:
-![Github Stats](https://github-readme-stats.vercel.app/api?username=Alexxx20&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=Alexxx20&show_icons=true&locale=en&layout=compact&theme=dark)
+## Git Stats:
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=Alexxx20&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=dark" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Alexxx20&show_icons=true&locale=en&layout=compact&theme=dark" />
+    </td>
+  </tr>
+</table>
