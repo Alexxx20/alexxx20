@@ -1,5 +1,4 @@
 ## Hi there 👋
-
 # Alex de Lucena Furtado
 
 🚀 Estudante de Sistema de Informação, Técnico em Informática, Desenvolvedor Backend
